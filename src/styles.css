@@ -1,0 +1,7 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: linear-gradient(to right,gray -30%, black 120%),url('background.jpg');
+  background-size: cover;
+  background-blend-mode: darken;
+}
